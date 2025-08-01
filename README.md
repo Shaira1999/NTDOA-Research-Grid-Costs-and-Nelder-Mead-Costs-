@@ -1,4 +1,17 @@
-# NTDOA-Research-Grid-Costs-and-Nelder-Mead-Costs-
-Grid Cost and Nelder Cost results are found out successfully for a clean dataset
-Clean daatset has 70 signal sources as samples and 32 sensors
-32 x-coordinates,32 y coordinates, 32 times of arrival values from source to sensor, with 1 x corodinates and 1 y coordinates as true signal sources for each and every samples
+# NTDOA Research: Grid Costs and Nelder-Mead Costs
+
+This repository contains my research on Time Difference of Arrival (TDOA)-based signal source localization.  
+The project explores grid-based cost functions and Nelder-Mead optimization for accurate source localization under a known signal speed.
+
+## Key Features
+- Implements TDOA with known speed of signal
+- Grid-based and Nelder-Mead cost function comparison
+- Evaluation using synthetic datasets
+
+## Results
+The code successfully estimates source locations under homogeneous environment
+
+
+
+
+
